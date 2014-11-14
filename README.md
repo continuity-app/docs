@@ -17,3 +17,4 @@ All of this relies on a few outside technologies such as,
 
 * http://blog.vulcanproxy.com/intro/
 * http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/
+* http://serverascode.com/2014/06/16/build-your-own-paas-docker.html
